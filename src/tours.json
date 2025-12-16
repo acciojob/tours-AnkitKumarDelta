@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rec6d6T3q5EBIdCfD",
+    "name": "Best Of Paris In 7 Days Tour",
+    "info": "Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. In this tour, you'll experience the best of Paris: the Louvre, the Orsay Museum, Notre-Dame Cathedral, and the Palace of Versailles. You’ll enjoy guided neighborhood walks through the Marais, the Latin Quarter, and Montmartre, along with free time to explore on your own.",
+    "image": "https://www.course-api.com/images/tours/tour-1.jpeg",
+    "price": "1,995"
+  },
+  {
+    "id": "recIwxrvU9HfJR3B4",
+    "name": "Best Of Ireland In 14 Days Tour",
+    "info": "With its stunning landscapes, historic castles, and vibrant culture, Ireland is a traveler’s dream. On this tour, you'll explore Dublin’s lively streets, the wild Cliffs of Moher, charming villages, and ancient ruins. Along the way, enjoy traditional music, hearty cuisine, and warm Irish hospitality.",
+    "image": "https://www.course-api.com/images/tours/tour-2.jpeg",
+    "price": "3,895"
+  },
+  {
+    "id": "recJLWcHScdUtI3ny",
+    "name": "Best Of Salzburg & Vienna In 8 Days Tour",
+    "info": "Austria celebrates the beauty of old-world charm and classical music. This tour takes you through the stunning alpine scenery of Salzburg, the birthplace of Mozart, and Vienna, the imperial city of palaces and opera. Walk historic streets, savor Viennese pastries, and immerse yourself in world-class art and architecture.",
+    "image": "https://www.course-api.com/images/tours/tour-3.jpeg",
+    "price": "2,695"
+  },
+  {
+    "id": "recK2AOoVhIHPLUwn",
+    "name": "Best Of Rome In 7 Days Tour",
+    "info": "Rome is a living museum of ancient history, Renaissance art, and vibrant street life. This tour includes visits to the Colosseum, Vatican Museums, St. Peter’s Basilica, and the Roman Forum. Wander through picturesque piazzas, taste authentic Italian cuisine, and enjoy the passionate energy of the Eternal City.",
+    "image": "https://www.course-api.com/images/tours/tour-4.jpeg",
+    "price": "2,095"
+  },
+  {
+    "id": "receB6aU3HtI3wCdy",
+    "name": "Best Of Poland In 10 Days Tour",
+    "info": "Poland offers a rich blend of history, culture, and natural beauty. Explore the medieval old town of Kraków, the somber Auschwitz-Birkenau site, and the modern vibrancy of Warsaw. Visit charming mountain villages, Gothic cathedrals, and bustling marketplaces. Along the way, enjoy hearty Polish meals and learn about the country’s resilient spirit.",
+    "image": "https://www.course-api.com/images/tours/tour-5.jpeg",
+    "price": "2,595"
+  }
+]
