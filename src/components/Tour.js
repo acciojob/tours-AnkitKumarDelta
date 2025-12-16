@@ -15,7 +15,7 @@ const Tour = ({ tour, removeTour }) => {
                     id={showMore ? `see-less-${tour.id}` : `see-more-${tour.id}`}
                     onClick={() => setShowMore(!showMore)}
                 >
-                    {showMore ? "See less" : "Show more"}
+                    {showMore ? "See less" : "See more"}
                 </button>
             </p>
 
